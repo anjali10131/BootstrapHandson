@@ -1,0 +1,75 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+}
+
+.navbar {
+    
+    background:black;
+}
+.navbartext {
+    color: white;
+}
+
+.navbartext2{
+    color: black;
+}
+
+.divmain{
+    display: flex;
+}
+
+.div1{
+    width: 70%;
+    background-color: green;
+}
+
+.div2{
+    background:violet;
+    width: 30%;
+    
+}
+
+.list{
+    text-align: left;
+    
+}
+
+.list-item{
+color:black;
+}
+
+.navbar-collapse{
+    justify-content: flex-end;
+}
+
+.nav-link{
+    color: white;
+}
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 40px;  /* Preferred icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+
+    vertical-align: middle;
+  
+    /* Support for all WebKit browsers. */
+    -webkit-font-smoothing: antialiased;
+    /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
+  
+    /* Support for Firefox. */
+    -moz-osx-font-smoothing: grayscale;
+  
+    /* Support for IE. */
+    font-feature-settings: 'liga';
+  }
