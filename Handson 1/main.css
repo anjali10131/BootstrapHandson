@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+}
+
+.navbar {
+    
+    background:black;
+}
+.navbartext {
+    color: white;
+}
+
+.navbartext2{
+    color: black;
+}
+
+.divmain{
+    display: flex;
+}
+
+.div1{
+    width: 70%;
+    background-color: green;
+}
+
+.div2{
+    background:violet;
+    width: 30%;
+    
+}
+
+.list{
+    text-align: left;
+    
+}
+
+.list-item{
+color:black;
+}
